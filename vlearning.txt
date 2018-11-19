@@ -1,0 +1,20 @@
+V-LEARNING
+TARGET USERS:The target of the virtual reality project would be preschool kids with ages 3-5 years old. 
+SCOPE OF THE PROJECT:
+1.The project will serve as an entertainment and educational medium for preschool age kids. 
+2.The project aims to enhance real-life experience. 
+3.The project will allow kids to foster their imagination.	
+4.It will be consisted of the following basic concepts:
+-Shapes
+-Letters
+-Colors
+-Numbers 
+-Preschool Science Activities
+EXISTING PROJECT:
+Virtual & Augmented Reality in Pre-school Education (CLASS VR)
+-The focus of the project is about learning through experience. Young students benefit from immersive 360 environments. VR and AR is used to enhance and complement the real-world exploration and play that builds a solid foundation in the pre-school years.
+USABILITY KIT:
+1.Pencil and Paper
+-Ideas will be sketched in papers. It’s fast, cheap, and helps express ideas that may take hours in software. This is especially important because moving from sketches to hi-fidelity can cost much more in 3D than in 2D.
+2.Software
+-The software that will be used to design will be Unity or Unreal Engine. Cinema 4D and Maya are also widely used, but mostly for complex animations and renderings.
